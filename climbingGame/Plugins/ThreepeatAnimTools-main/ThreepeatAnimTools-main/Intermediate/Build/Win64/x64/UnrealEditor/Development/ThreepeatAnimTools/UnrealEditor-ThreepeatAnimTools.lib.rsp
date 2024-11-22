@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThreepeatAnimTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\unreal project\climbingGame\Intermediate\Build\Win64\x64\climbingGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\Module.ThreepeatAnimTools.cpp.obj"
+"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\CurveEditorAlignToLastKeyFilter.cpp.obj"
+"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\CurveEditorMakeHoldFilter.cpp.obj"
+"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\ThreepeatAnimTools.cpp.obj"
+"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\ThreepeatAnimToolsBPLibrary.cpp.obj"
+"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\Default.rc2.res"
+/OUT:"E:\unreal project\climbingGame\Plugins\ThreepeatAnimTools-main\ThreepeatAnimTools-main\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThreepeatAnimTools\UnrealEditor-ThreepeatAnimTools.lib"
