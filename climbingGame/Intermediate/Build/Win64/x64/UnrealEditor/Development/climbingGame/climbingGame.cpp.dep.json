@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal project\\spiderman--clone\\climbinggame\\source\\climbinggame\\climbinggame.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal project\\spiderman--clone\\climbinggame\\intermediate\\build\\win64\\x64\\climbinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "e:\\unreal project\\spiderman--clone\\climbinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\climbinggame\\definitions.climbinggame.h",
+            "e:\\unreal project\\spiderman--clone\\climbinggame\\source\\climbinggame\\climbinggame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

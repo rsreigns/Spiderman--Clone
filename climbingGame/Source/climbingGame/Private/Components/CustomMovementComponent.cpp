@@ -15,7 +15,6 @@ void UCustomMovementComponent::TickComponent(float DeltaTime, ELevelTick TickTyp
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 	if (bSprinting && OwningPlayerCharacter)
 	{
-
 	}
 }
 void UCustomMovementComponent::BeginPlay()

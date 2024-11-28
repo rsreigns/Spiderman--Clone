@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\climbingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\climbingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\climbingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\climbingGame">
+      <UniqueIdentifier>{736285E3-49B3-3275-884D-578F261C1B9B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\climbingGame\climbingGame.Build.cs">
+      <Filter>Source\climbingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\climbingGame\climbingGame.cpp">
+      <Filter>Source\climbingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\climbingGame\climbingGame.h">
+      <Filter>Source\climbingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\climbingGame\ClimbingGameCharacter.cpp">
+      <Filter>Source\climbingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\climbingGame\ClimbingGameCharacter.h">
+      <Filter>Source\climbingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\climbingGame\climbingGameGameMode.cpp">
+      <Filter>Source\climbingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\climbingGame\climbingGameGameMode.h">
+      <Filter>Source\climbingGame</Filter>
+    </ClCompile>
+    <Filter Include="Source\climbingGame\Private">
+      <UniqueIdentifier>{FCB5F1D6-3805-3AD0-80D0-4ED459956CBF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\climbingGame\Private\AnimInstance">
+      <UniqueIdentifier>{B102B43C-E97D-3A52-A9EE-1D37701E90F0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\climbingGame\Private\AnimInstance\CharacterAnimInstance.cpp">
+      <Filter>Source\climbingGame\Private\AnimInstance</Filter>
+    </ClCompile>
+    <Filter Include="Source\climbingGame\Private\Components">
+      <UniqueIdentifier>{495DE3CF-A6D4-3C08-89A3-80D50C588159}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\climbingGame\Private\Components\CustomMovementComponent.cpp">
+      <Filter>Source\climbingGame\Private\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\climbingGame\Public">
+      <UniqueIdentifier>{36B6982F-ACE5-3FC7-9B96-EB07F2E0859E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\climbingGame\Public\AnimInstance">
+      <UniqueIdentifier>{FC561F88-DD53-31B3-979C-5360F3D72FF6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\climbingGame\Public\AnimInstance\CharacterAnimInstance.h">
+      <Filter>Source\climbingGame\Public\AnimInstance</Filter>
+    </ClCompile>
+    <Filter Include="Source\climbingGame\Public\Components">
+      <UniqueIdentifier>{832924CC-A5C1-3586-A229-D63E4EED460F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\climbingGame\Public\Components\CustomMovementComponent.h">
+      <Filter>Source\climbingGame\Public\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\climbingGame\WeightSystem">
+      <UniqueIdentifier>{2F32041A-9BA4-3F0C-84C2-72B84F07D55D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\climbingGame\WeightSystem\WeightComponent.cpp">
+      <Filter>Source\climbingGame\WeightSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\climbingGame\WeightSystem\WeightComponent.h">
+      <Filter>Source\climbingGame\WeightSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

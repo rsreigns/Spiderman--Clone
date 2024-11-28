@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\unreal project\\Spiderman--Clone\\climbingGame\\Source\\climbingGame\\climbingGame.Build.cs",
+		"E:\\unreal project\\Spiderman--Clone\\climbingGame\\Source\\climbingGame.Target.cs",
+		"E:\\unreal project\\Spiderman--Clone\\climbingGame\\Source\\climbingGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}

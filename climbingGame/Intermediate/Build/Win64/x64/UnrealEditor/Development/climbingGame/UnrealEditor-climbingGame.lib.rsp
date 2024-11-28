@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-climbingGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\climbingGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\CharacterAnimInstance.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\climbingGame.init.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\ClimbingGameCharacter.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\climbingGameGameMode.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\CustomMovementComponent.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\WeightComponent.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\climbingGame.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\ClimbingGameCharacter.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\climbingGameGameMode.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\CharacterAnimInstance.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\WeightComponent.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\CustomMovementComponent.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\PerModuleInline.gen.cpp.obj"
+"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\Default.rc2.res"
+/OUT:"E:\unreal project\Spiderman--Clone\climbingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\climbingGame\UnrealEditor-climbingGame.lib"
